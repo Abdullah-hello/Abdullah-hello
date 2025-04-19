@@ -1,4 +1,3 @@
-![Banner](banner.png)
 # 👋 Hi, I'm Abdullah Al Mamun
 
 I'm a 13-year-old student from **Bangladesh** with big dreams!  
